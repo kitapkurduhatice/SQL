@@ -1,0 +1,2 @@
+# SQL
+SQL sorgularını yazma
